@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Transportation.Jo.Domain\Transportation.Jo.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
